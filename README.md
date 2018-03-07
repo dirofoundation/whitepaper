@@ -1,2 +1,2 @@
-# whitepaper
-Technical document that specifies protocol.
+# Technical whitepaper
+Semi-technical document that provides insight into the DIAM platform.
